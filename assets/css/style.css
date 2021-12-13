@@ -24,6 +24,7 @@ main {
     padding: 50px;
     background-color: rgb(206, 238, 227);
     min-height: 50vh;
+    border-radius: 20px;
 }
 
 footer {
@@ -45,6 +46,7 @@ input,
 select {
     width: 100%;
     display: inline-block;
+    border-radius: 5px;
 }
 
 legend {
